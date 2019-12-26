@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "id": "fabriccontrolling",
   "name": "Fabric Controlling",
-  "version": "1.0.1",
+  "version": "1.0.5",
   "side": "client",
   "entrypoints": {
     "client": ["com.blamejared.fabriccontrolling.Controlling"]
